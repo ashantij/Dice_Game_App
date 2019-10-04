@@ -1,1 +1,1 @@
-# NewProject
+Dice Game App
